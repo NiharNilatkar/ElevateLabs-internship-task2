@@ -61,9 +61,10 @@ Upon analysing this, I realised these were the indicators of a phishing email, w
 ---
 
 ### Suspicious contents
-**The fake button:-**
+-**The fake button:-**
 "Reports the user" this will open a mail client instead of portal where we wanted to report the suspicious user from Russia, that tried to log into our account. This mail client, will send my email to the attacker, indicating that I clicked on the button and giving them the light that I might fall for this email again.
-**The Image Tracker:-**
+
+-**The Image Tracker:-**
 This email has a tracker that will load a tracking pixel from `thebandalisty.com`. This will give the attacker my IP address and my email client, to further launch cyberattacks on me.
 
 ---
