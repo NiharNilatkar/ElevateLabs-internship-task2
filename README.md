@@ -9,7 +9,7 @@ I sourced a real phishing email in `.eml` format named `sample-10.eml` from the 
 
 ## The Email
 The email seems like a normal email that from "Microsoft account team" stating that some individual from Moscow,Russia has signed-in into target user's microsoft account. This creates a sense of urgency in the target, leading them to take all actions specified in the email(common phishing tatic).
-The email did not have any sign of threatning language, it only creates a sense of urgency amongst individual.
+The email did not have any sign of threatning language, it only creates a sense of urgency amongst individual. Furthermore, it did not have any grammatical error, making it seem more legit or professional.
 
 ---
 
