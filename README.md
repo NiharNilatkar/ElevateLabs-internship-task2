@@ -1,6 +1,6 @@
 # ElevateLabs-internship-task2
 
-## Objective
+## Objective:
 Identify phishing characteristics in a suspicious email sample
 ---
 
