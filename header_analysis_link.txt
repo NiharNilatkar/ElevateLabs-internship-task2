@@ -1,0 +1,5 @@
+
+MxToolbox Header Analysis:
+https://mxtoolbox.com/Public/Tools/EmailHeaders.aspx?huid=53a8823d-4c86-4a01-bf9f-c40edcb11839
+
+This link contains the full parsed results for the email header analysis of the phishing email (sample-10.eml).
